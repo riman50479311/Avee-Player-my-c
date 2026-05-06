@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "Avee Player",
+    "packageName": "com.daaw.avee",
+    "versionCode": 252,
+    "updateUrl": "https://t.me/romanticboymizan1",
+    "title": "New Update Available!",
+    "description": "A new version of the app is available with more premium features and improvements. Please update to continue using the app smoothly.",
+    "isForce": false,
+    "isExpired": false,
+    "expiryDate": "2026-10-07",
+    "closeButtonText": "Cancel",
+    "updateButtonText": "Update Now"
+  }
+]
