@@ -8,7 +8,7 @@
     "description": "A new version of the app is available with more premium features and improvements. Please update to continue using the app smoothly.",
     "isForce": true,
     "isExpired": true,
-    "expiryDate": "2026-07-09",
+    "expiryDate": "2020-07-09",
     "closeButtonText": "Cancel",
     "updateButtonText": "Update Now"
   }
